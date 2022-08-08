@@ -122,9 +122,9 @@ export default {
     //   category,
     //   config.numberOfRelevantProduct
     // );
-    const relevantProducts = products.filter((x) =>
-      x.categories.includes(category)
-    );
+    const relevantProducts = products
+      .filter((x) => x.categories.includes(category))
+      .slice(0, 12);
 
     return {
       product,
