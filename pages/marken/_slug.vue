@@ -25,6 +25,8 @@
 
 <script>
 import config from "~/assets/data/config.json";
+import products from "~/assets/data/products.json";
+import categories from "~/assets/data/categories.json";
 import db from "~/utils/database.js";
 
 export default {
@@ -65,9 +67,11 @@ export default {
     const slug = this.$route.params.slug;
     const brandData = db.brands.getBrandFromSlug(slug);
     const seoData = db.seo.getSeoForBrand(brandData);
-    const filteredProducts = db.brands
-      .getProductsForBrand(brandData)
-      .slice(0, 100);
+    // const filteredProducts = db.brands
+    //   .getProductsForBrand(brandData)
+    //   .slice(0, 100);
+
+    const filteredProducts = products.filter((x) => x.brand === brandData.name);
 
     return {
       filteredProducts,
