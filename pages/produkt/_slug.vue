@@ -65,6 +65,8 @@
 
 <script>
 import config from "~/assets/data/config.json";
+import products from "~/assets/data/products.json";
+import categories from "~/assets/data/categories.json";
 import db from "~/utils/database.js";
 
 export default {
@@ -116,9 +118,12 @@ export default {
     const product = db.products.getProductFromSlug(slug);
     const seoData = db.seo.getSeoForProduct(product);
     const category = db.categories.getCategoryNameForProduct(product);
-    const relevantProducts = db.products.getRandomProductsFromCategory(
-      category,
-      config.numberOfRelevantProduct
+    // const relevantProducts = db.products.getRandomProductsFromCategory(
+    //   category,
+    //   config.numberOfRelevantProduct
+    // );
+    const relevantProducts = products.filter((x) =>
+      x.categories.includes(category)
     );
 
     return {
