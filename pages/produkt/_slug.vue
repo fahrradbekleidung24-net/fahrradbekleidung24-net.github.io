@@ -66,7 +66,6 @@
 <script>
 import config from "~/assets/data/config.json";
 import products from "~/assets/data/products.json";
-import categories from "~/assets/data/categories.json";
 import db from "~/utils/database.js";
 
 export default {
