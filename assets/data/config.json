@@ -32,12 +32,14 @@
         "Fahrradtrikots und Shirts",
         "Fahrradunterhosen"
     ],
-    "socialMediaAccounts": [{
-        "name": "Twitter",
-        "link": "https://www.twitter.com/campingtoilette",
-        "iconClass": "fab fa-twitter",
-        "published": false
-    }],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/campingtoilette",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
@@ -47,51 +49,39 @@
             "title": "Fahrradbekleidung | Shop",
             "metaDescription": "Wir führen getestete Fahrradbekleidung. Fahrradhosen, Fahrradjacken, Fahrradhandschuhe, Fahrradunterhosen und alles was du für die optimale  Radtour benötigst.",
             "robots": "index, follow",
-            "texts": [{
-                    "title": "Dein Online Shop für die optimale Fahrradbekleidung",
-                    "text": "Radfahren ist eine tolle Freizeitbeschäftigung für Jung und Alt. Neben der Bewegung an der frischen Luft ist es auch ein günstiger Sport, da keine teuren Ausrüstungsgegenstände benötigt werden. Damit das Radfahren noch mehr Spaß macht, sollte man die richtige Fahrradbekleidung tragen. Diese gibt es in vielen verschiedenen Ausführungen für jeden Zweck. "
-                },
-                {
-                    "title": "Was ist Radsportbekleidung?",
-                    "text": "Radsportbekleidung ist in erster Linie Funktionsbekleidung. Sie muss bestimmte Anforderungen erfüllen und extremen Situationen standhalten. So bestehen Radtrikots oft aus atmungsaktivem Material, damit der Radfahrer nicht zu sehr schwitzt. Der Stoff muss auch elastisch sein, damit das Trikot die Bewegung der Arme und Schultern nicht behindert. Außerdem müssen Fahrradtrikots mit Taschen ausgestattet, in denen der Radfahrer Lebensmittel oder ein Mobiltelefon verstauen kann. "
-                },
-                {
-                    "title": "Was ist noch zu beachten?",
-                    "text": "Fahrradhosen sind ein weiteres wichtiges Kleidungsstück für Radfahrer. Sie bestehen in der Regel aus Elasthan und haben eine Polsterung, die das Gesäß beim Radfahren vor Schmerzen schützt. Außerdem haben Radlerhosen oft ein Anti-Rutsch-Band an den Beinen, damit sie nicht rutschen beim Radfahren. Mit der richtigen Fahrradbekleidung macht das Radfahren noch mehr Spaß.</p><p>Sie schützt den Radfahrer vor Wind und Wetter und sorgt dafür, dass er nicht zu sehr ins Schwitzen kommt. Darüber hinaus gibt es gute Radbekleidung in vielen verschiedenen Designs und für jeden Anlass. Egal, ob Sie auf der Suche nach lässiger Radbekleidung oder nach Renntrikots sind, Sie werden hier fündig.</p> Die richtige Fahrradbekleidung ist für ein großartiges Raderlebnis unerlässlich. Sie sollte funktionell, bequem und modisch sein. Bestellen Sie jetzt Ihre Radbekleidung und genießen Sie das Radfahren noch mehr."
-                },
-                {
-                    "title": "Fahrradjacken und Fahrradwesten",
-                    "text": "In unserem Sortiment finden Sie eine große Auswahl an <a href=\"/kategorie/fahrradjacken-und-fahrradwesten/\" title=\"Fahrradjacken und Fahrradwesten\">Fahrradjacken und Fahrradwesten</a> für jede Jahreszeit und Wetterbedingung. Ob winddicht, wasserabweisend, atmungsaktiv oder mit integrierter Reflektortechnologie - wir haben die passende Jacke für Sie. Entdecken Sie jetzt unsere Top-Marken und finden Sie die perfekte Fahrradjacke oder -weste für Ihre nächste Tour."
-                },
-                {
-                    "title": "Fahrradjacken und Fahrradwesten",
-                    "text": "In unserem Sortiment finden Sie eine große Auswahl an <a href=\"/kategorie/fahrradjacken-und-fahrradwesten/\" title=\"Fahrradjacken und Fahrradwesten\">Fahrradjacken und Fahrradwesten</a> für jede Jahreszeit. Ob winddicht, wasserabweisend oder atmungsaktiv - wir haben die passende Jacke für Sie. Entdecken Sie jetzt unsere Top-Marken und finden Sie die perfekte Fahrradjacke für Ihre Bedürfnisse."
-                },
-                {
-                    "title": "Fahrradhosen",
-                    "text": "Unser Angebot an <a href=\"/kategorie/fahrradhosen/\" title=\"Fahrradhosen\">Fahrradhosen</a> ist vielfältig und umfasst alles, was das Radfahrerherz begehrt. Ob kurze Hosen oder lange Radhosen, gepolsterte Shorts oder regenabweisende Modelle - bei uns finden Sie die perfekte Fahrradhose für Ihre nächste Tour."
-                },
-                {
-                    "title": "Fahrradaccessoires",
-                    "text": "In unserem Sortiment an <a href=\"/kategorie/fahrradaccessoires/\" title=\"Fahrradaccessoires\">Fahrradaccessoires</a> finden Sie alles, was Sie für eine sichere und angenehme Fahrt benötigen. Wir bieten eine große Auswahl an Fahrradhelmen, Fahrradschlössern, Fahrradbeleuchtung und vielem mehr, um Ihre Fahrt so sicher wie möglich zu gestalten."
-                },
-                {
-                    "title": "Fahrradhandschuhe",
-                    "text": "Unsere Auswahl an <a href=\"/kategorie/fahrradhandschuhe/\" title=\"Fahrradhandschuhe\">Fahrradhandschuhen</a> umfasst Modelle für jede Jahreszeit und jede Art von Radfahren. Von gepolsterten Handschuhen für den Mountainbike-Einsatz bis hin zu dünnen, atmungsaktiven Modellen für die Sommermonate - bei uns werden Sie fündig."
-                },
-                {
-                    "title": "Fahrradtrikots und Shirts",
-                    "text": "Bei uns finden Sie eine breite Palette an <a href=\"/kategorie/fahrradtrikots-und-shirts/\" title=\"Fahrradtrikots und Shirts\">Fahrradtrikots und Shirts</a> für Damen und Herren. Wir führen alles von kurzärmligen Trikots für den Sommer bis hin zu langärmligen Modellen für die kälteren Monate. Unsere Fahrradtrikots sind nicht nur funktional, sondern auch stylisch - für eine perfekte Fahrt auf und abseits des Rades."
-                },
-                {
-                    "title": "Fahrradunterhosen",
-                    "text": "Gepolsterte <a href=\"/kategorie/fahrradunterhosen/\" title=\"Fahrradunterhosen\">Fahrradunterhosen</a> sind unverzichtbar für eine bequeme Fahrt ohne Schmerzen im Sattelbereich. Wir bieten eine große Auswahl an Fahrradunterhosen für Damen und Herren - von gepolsterten Shorts bis hin zu langen Modellen für kältere Tage. Entdecken Sie jetzt unser Angebot und machen Sie Ihre nächste Fahrradtour noch bequemer."
-                },
-                {
-                    "title": "Vielen Dank für Ihren Besuch bei Fahrradbekleidung24.net",
-                    "text": "Wir hoffen, dass Sie in unserem Online-Shop alles gefunden haben, was Sie gesucht haben. Sollten Sie Fragen oder Anregungen haben, zögern Sie bitte nicht, uns zu kontaktieren. Wir sind immer gerne für Sie da. Wir freuen uns auf Ihren nächsten Besuch bei Fahrradbekleidung24.net!"
-                }
-            ]
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Fahrradbekleidung24.net",
+                        "text": "Herzlich willkommen auf Fahrradbekleidung24.net, Ihrem Online-Shop für alles rund um Fahrradbekleidung. Wir bieten eine breite Auswahl an Fahrradjacken und Fahrradwesten, Fahrradhosen, Fahrradaccessoires, Fahrradhandschuhen, Fahrradtrikots und Shirts sowie Fahrradunterhosen. Ob Sie auf der Suche nach hochwertiger Fahrradbekleidung für Ihre täglichen Fahrten in die Stadt oder für längere Ausflüge in die Natur sind, bei uns finden Sie garantiert das passende Outfit. Wir legen großen Wert auf Qualität und Funktionalität und bieten Ihnen daher nur Produkte renommierter Hersteller an. Unsere Fahrradbekleidung ist besonders strapazierfähig und bequem und sorgt dafür, dass Sie auch bei längeren Fahrten stets bequem und geschützt unterwegs sind. Mit unserer übersichtlichen Navigation und der Möglichkeit, Produkte nach verschiedenen Kriterien zu filtern, finden Sie schnell und einfach das passende Produkt für Ihre Bedürfnisse. Überzeugen Sie sich selbst von unserem Angebot und bestellen Sie bequem online. Wenn Sie Fragen zu unseren Produkten oder zur Bestellung haben, steht Ihnen unser Kundenservice jederzeit gerne zur Verfügung. Wir wünschen Ihnen viel Freude beim Stöbern und Einkaufen auf Fahrradbekleidung24.net!"
+                    },
+                    {
+                        "title": "Fahrradjacken und Fahrradwesten",
+                        "text": "Entdecke die große Auswahl an <a href=\"/kategorie/fahrradjacken-und-fahrradwesten/\" title=\"Fahrradjacken und Fahrradwesten\">Fahrradjacken und Fahrradwesten</a> bei Fahrradbekleidung24.net. Hier findest du hochwertige Fahrradbekleidung, die dich bei jedem Wetter warm hält und gleichzeitig stylisch aussieht. Ob Regen, Wind oder Kälte, mit unseren Fahrradjacken und Fahrradwesten bist du bestens ausgestattet. Stöbere jetzt durch unser Sortiment und finde deine neue Fahrradjacke oder Fahrradweste."
+                    },
+                    {
+                        "title": "Fahrradhosen",
+                        "text": "<a href=\"/kategorie/fahrradhosen/\" title=\"Fahrradhosen\">Fahrradhosen</a> gibt es in vielen verschiedenen Ausführungen und Materialien bei Fahrradbekleidung24.net. Ob für den Winter oder den Sommer, wir haben die passende Fahrradhose für dich. Die Hosen sind atmungsaktiv und bieten viel Bewegungsfreiheit beim Radfahren. Außerdem sind sie besonders robust und langlebig, damit du lange Freude an deiner Fahrradhose hast. Stöbere jetzt durch unser Sortiment und finde deine neue Fahrradhose."
+                    },
+                    {
+                        "title": "Fahrradaccessoires",
+                        "text": "Fahrradbekleidung24.net bietet eine große Auswahl an <a href=\"/kategorie/fahrradaccessoires/\" title=\"Fahrradaccessoires\">Fahrradaccessoires</a>, die dein Radfahrerlebnis noch angenehmer machen. Hier findest du alles, was du für deine Fahrradtouren benötigst, von Regenhüllen über Fahrradschlösser bis hin zu Fahrradpumpen. Mit unseren hochwertigen Fahrradaccessoires bist du bestens ausgestattet und kannst deine Fahrradtouren in vollen Zügen genießen. Stöbere jetzt durch unser Sortiment und finde deine neuen Fahrradaccessoires."
+                    },
+                    {
+                        "title": "Fahrradhandschuhe",
+                        "text": "Schütze deine Hände beim Radfahren mit den <a href=\"/kategorie/fahrradhandschuhe/\" title=\"Fahrradhandschuhe\">Fahrradhandschuhe</a>n von Fahrradbekleidung24.net. Hier findest du eine große Auswahl an Fahrradhandschuhen, die dich bei jedem Wetter warm und trocken halten. Ob Regen, Kälte oder Sonne, mit unseren Fahrradhandschuhen bist du bestens ausgestattet. Die Handschuhe sind besonders robust und bequem, damit du auch bei längeren Fahrradtouren keine Schmerzen hast. Stöbere jetzt durch unser Sortiment und finde deine neuen Fahrradhandschuhe."
+                    },
+                    {
+                        "title": "Fahrradtrikots und Shirts",
+                        "text": "Stylische Fahrradbekleidung findest du bei Fahrradbekleidung24.net. Hier gibt es eine große Auswahl an <a href=\"/kategorie/fahrradtrikots-und-shirts/\" title=\"Fahrradtrikots und Shirts\">Fahrradtrikots und Shirts</a>, die dich bei jedem Wetter angenehm kühl halten. Ob für den Sommer oder für wärmere Tage, mit unseren Fahrradtrikots und Shirts bist du bestens ausgestattet. Die Trikots und Shirts sind atmungsaktiv und bequem, damit du dich auf deine Fahrradtouren konzentrieren kannst. Stöbere jetzt durch unser Sortiment und finde dein neues Fahrradtrikot oder Shirt."
+                    },
+                    {
+                        "title": "Fahrradunterhosen",
+                        "text": "Mit den <a href=\"/kategorie/fahrradunterhosen/\" title=\"Fahrradunterhosen\">Fahrradunterhosen</a> von Fahrradbekleidung24.net bist du bei jedem Wetter angenehm gekleidet. Hier findest du eine große Auswahl an Fahrradunterhosen, die dich bei Kälte und Regen warm und trocken halten. Die Unterhosen sind besonders bequem und atmungsaktiv, damit du auch bei längeren Fahrradtouren keine unangenehmen Gefühle hast. Stöbere jetzt durch unser Sortiment und finde deine neue Fahrradunterhose."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Shop für Fahrradbekleidung",
@@ -108,36 +98,41 @@
         "defaultTitle": "$PRODUKT kaufen | Fahrradbekleidung",
         "defaultMetaDescription": "$PRODUKT vom der Marke $HERSTELLER zum Best-Preis. Bestelle jetzt das Produkt $PRODUKT aus der Kategorie $KATEGORIE zum fairen Preis.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Fahrradbekleidung",
         "defaultMetaDescription": "Produkte, Testsieger und Angebote aus der Kategorie $KATEGORIE. Best-Preis-Garantie. Produkte auf Lager.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow"
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "Fahrradbekleidung von $HERSTELLER",
         "defaultMetaDescription": "In unserem Shop für Fahrradbekleidung findest du alle Produkte von der Marke $HERSTELLER zum günstigsten Preis. Produkte getestet und auf Lager.",
         "defaultRobots": "index, follow",
-        "brands": [{
+        "brands": [
+            {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
@@ -165,7 +160,8 @@
         "Waschbarkeit",
         "Preis-Leistungs-Verhältnis"
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Startseite",
             "linkTo": "/",
             "linkTitle": "Fahrradbekleidung",
